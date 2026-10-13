@@ -29,7 +29,10 @@ const a3 = document.querySelector(".a3")
 
 a3.style.fontSize = "22px"
 
+
 const a4 = document.querySelector(".a4")
+a4.style.color = "white"
+
 
 const a5 = document.querySelector(".a5")
 
