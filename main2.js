@@ -30,7 +30,6 @@ const a3 = document.querySelector(".a3")
 a3.style.fontSize = "22px"
 
 const a4 = document.querySelector(".a4")
-a4.style.color = "white"
 
 const a5 = document.querySelector(".a5")
 
@@ -282,8 +281,9 @@ i6.style.margin = "0"
 
 const j1 = document.querySelector(".j1")
 
-j1.style.display = "grid"
-j1.style.gridTemplateColumns = "repeat(auto-fit, minmax(200px, 1fr))"
+
+j1.style.display = "flex"
+j1.style.marginLeft = "300px"
 j1.style.gap = "20px"
 j1.style.marginTop = "32px"
 
